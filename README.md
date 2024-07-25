@@ -1,3 +1,4 @@
+![Ekran görüntüsü 2024-07-25 215409](https://github.com/user-attachments/assets/60baf757-4e28-4608-9ff3-d2bfc9c0b003)
 d = √(x₂-x₁)²+(y₂-y₁)²
 
 Öklid mesafesi, Öklid uzayındaki iki nokta arasındaki "sıradan" düz çizgi mesafesidir. Bu formül ile, düzlemde veya üç boyutlu uzayda iki nokta arasındaki mesafeyi bulabilirsiniz.
